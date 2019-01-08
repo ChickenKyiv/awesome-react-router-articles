@@ -7,7 +7,7 @@ https://tylermcginnis.com/build-your-own-react-router-v4/
 https://medium.com/@albertcito/different-layouts-with-react-router-1311a21a2df5
 https://tylermcginnis.com/react-router-protected-routes-authentication/
 
-
+## 2
 Routes.Nested Routes
 https://reacttraining.com/react-router/core/guides/philosophy/nested-routes
 
@@ -38,6 +38,8 @@ https://www.google.com.ua/search?q=react+router+with+username&oq=react+router+wi
 https://github.com/GetStream/Winds/blob/master/app/src/AppRouter.js
 
 ---
+
+## 3 
 
 https://tylermcginnis.com/react-router-code-splitting/
 https://github.com/thejameskyle/react-loadable
