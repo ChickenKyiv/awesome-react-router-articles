@@ -1,5 +1,7 @@
 # awesome-react-router-articles
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-react-router-articles) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-react-router-articles)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
 
 - https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config
 - https://medium.com/@albertcito/different-layouts-with-react-router-1311a21a2df5
